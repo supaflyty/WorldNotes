@@ -1,2 +1,10 @@
-# WorldNotes
-Program to organize documents for worldbuilding
+## WorldNotes
+Web app url : https://supaflyty.github.io/WorldNotes
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_Empty
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=supaflyty&repo=WorldNotes) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
